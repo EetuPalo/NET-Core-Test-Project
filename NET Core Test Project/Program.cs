@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace NET_Core_Test_Project
 {
+    //this is a test
     public class Program
     {
         public static void Main(string[] args)
